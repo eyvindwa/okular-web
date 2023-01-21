@@ -15,6 +15,14 @@ hero:
     - theme: alt
       text: Something smart here!
       link: https://github.com/evavic44/adocs-template
+
+features:
+  - title: '"A fantastic release!"'
+    details: Scream magazine
+  - title: '"The best evah"'
+    details: Metal Rulez 
+  - title: '"Oh my Twisted Sister, this is great!"'
+    details: Knows what's up mag
 ---
 
 <!-- # Hello okular! -->
