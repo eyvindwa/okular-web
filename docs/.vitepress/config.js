@@ -1,8 +1,9 @@
 export default {
-    title: 'Okular web',
+    title: '',
     description: 'Yeah and such important stuffs.',
     themeConfig: {
-        //    logo: '/okular-logo.jpeg'
+        logo: '/okular-logo-removebg.png',
+        siteTitle: false,
         nav: [
             { text: 'Home', link: '/' },
             { text: 'Discography', link: '/discography' },

@@ -32,5 +32,5 @@ Eyvind W. Axelsen: bass guitar
 
 ## Previous members
 
-* A guy
+* Some guy
 * And another

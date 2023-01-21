@@ -46,6 +46,10 @@
 :root {
     --vp-c-brand: darkred;
     --vp-c-brand-light: gray;
+    --vp-c-brand-light: red;
+    --vp-c-brand-lighter: pink;
+    --vp-c-brand-dark: darkred;
+    --vp-c-brand-darker: black;
 }
 
 /* remove dark/light mode toggle */
