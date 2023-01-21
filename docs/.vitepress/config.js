@@ -1,6 +1,6 @@
 export default {
     title: 'Okular web',
-    description: 'Yeah and such important stuffs.',
+    description: 'Norwegian progressive, melodic death metal.',
     themeConfig: {
         logo: '/okular-logo-removebg.png',
         siteTitle: false,
