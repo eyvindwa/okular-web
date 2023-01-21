@@ -30,7 +30,7 @@ Fredrik Aas: Vocals
 
 Eyvind W. Axelsen: bass guitar
 
-## Previous members
+## Former members
 
 * Some guy
 * And another

@@ -1,6 +1,10 @@
 # About Okular
 
-Øystein G. Brun of Borknagar thinks of Okular as a death metal parallel to his own band. “Okular measures up to bands such as Obscura and Gojira”, wrote Rita K. Trondsgård of Norway’s Scream Magazine in her review of the 2011 debut Probiotic, which became Album of the Month in the magazine’s 2011 December issue.
+Øystein G. Brun of Borknagar thinks of Okular as a death metal parallel to his own band. 
+
+> “Okular measures up to bands such as Obscura and Gojira”
+
+wrote Rita K. Trondsgård of Norway’s Scream Magazine in her review of the 2011 debut Probiotic, which became Album of the Month in the magazine’s 2011 December issue.
 
 With members based around the outskirts of Oslo, Norway, progressive death metal act Okular is led by composer/lyricist Andreas Aubert. He writes all the music in the program Guitar Pro, without the help of a guitar. In 2009 he gathered a lineup to record debut album Probiotic, with some of the songs dating as far back as 2005. The core of Okular’s recording lineup, which will also perform live, is comprised of Marius Skarsem Pedersen (guitars/vocals) and Bjørn Tore Erlandsen (drums). They are both also active with their band Aspherium, who reached second place in the final of Norway’s Wacken Metal Battle 2010.
 

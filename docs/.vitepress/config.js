@@ -1,5 +1,5 @@
 export default {
-    title: '',
+    title: 'Okular web',
     description: 'Yeah and such important stuffs.',
     themeConfig: {
         logo: '/okular-logo-removebg.png',
