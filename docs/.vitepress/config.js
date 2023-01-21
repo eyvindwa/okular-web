@@ -16,7 +16,7 @@ export default {
         ],
         footer: {
             //message: "Released under the MIT License.",
-            copyright: "Copyright © 2023-present Okular.",
+            copyright: "Copyright © 2023 Okular.",
           },    
     }
 }
