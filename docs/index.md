@@ -18,10 +18,10 @@ hero:
 
 features:
   - title: '"A fantastic release!"'
-    details: Scream magazine
+    details: Screamish magazine
   - title: '"The best evah"'
     details: Metal Rulez 
-  - title: '"Oh my Twisted Sister, this is great!"'
+  - title: '"Oh my twisted sister, this is great!"'
     details: Knows what's up mag
 ---
 
