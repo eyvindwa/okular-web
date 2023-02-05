@@ -7,7 +7,7 @@ export default {
         nav: [
             { text: 'Home', link: '/' },
             { text: 'Discography', link: '/discography' },
-            { text: 'About', link: '/about' },
+            { text: 'Biography', link: '/biography' },
             { text: 'Members', link: '/members' },
         ],
         socialLinks: [

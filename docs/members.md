@@ -1,36 +1,59 @@
 # Members
 
-
-## Andreas 
+## Andreas Aubert 
 ![Andreas](/andreas.jpg)
 
-Andreas Aubert: composition and lyrics
+Founder, composer and lyricist
 
-## Bjørn Tore
+Andreas writes the music in the program Guitar Pro, at times without utilizing the physical guitar as a reference or point of departure.
 
-![Bjørn Tore](/bjorn-tore.jpg)
-
-Bjørn Tore Erlandsen: drums
-
-## Marius
+## Marius Skarsem Pedersen
 
 ![Marius](/marius.jpg)
 
-Marius Skarsem Pedersen: Guitars and vocals
+Guitars, extreme and melodic vocals
 
-## Fredrik
+Marius also plays in the progressive and melodic death metal band [Aspherium](https://aspherium.com/), for which he is the main composer, guitarist and vocalist.
 
-![Fredrik](/fredrik.jpg)
+## Bjørn Tore Erlandsen
 
-Fredrik Aas: Vocals
+![Bjørn Tore](/bjorn-tore.jpg)
 
-## Eyvind
+Drums 
+
+Bjørn Tore also plays drums in [Aspherium](https://aspherium.com/), a band he is leading together with Marius.
+
+## Eyvind W. Axelsen
 
 ![Eyvind](/eyvind.jpg)
 
-Eyvind W. Axelsen: bass guitar
+Bass
+
+Eyvind is also bassist/co-vocalist/co-songwriter in the experimental death metal band [Diskord](https://diskord.net). He has also been the bassist for [Defect Designer](https://defectdesignerband.bandcamp.com/).
+
+## Fredrik William Aas
+
+![Fredrik](/fredrik.jpg)
+
+Extreme vocals
+
+Fredrik is guitarist/vocalist/songwriter of the blackened stoner metal band [Camelio](https://www.facebook.com/CamelioBand/).
+
 
 ## Former members
 
-* Some guy
-* And another
+### Yngve Bolt Christiansen
+Co-vocalist on the debut album Probiotic. Lead singer of Norwegian death metal band [Blood Red Throne](https://www.bloodredthrone.com/) from 2012-present.
+
+### Martin Skar Berger
+
+Bass on the sophomore album Sexforce. He is currently bassist/clean vocalist of German Symphonic Folk metal band [Equilibrium](https://equilibrium-metal.net/) and has previously played with Norwegian bands Zerozonic, Wheels of Rust and Third Invention. He is perhaps most known for his YouTube channel [SkarProductions](https://www.youtube.com/@SkarProductions) and his work as a music producer, having produced Norwegian acts such as Deception and Fleshmeadow.
+
+### Jan Pinslund 
+
+Guitars, live 2012–2014. Was previously active with Profania.
+
+
+### Simen Folkestad 
+Bass, live 2012-2014. Currently active with his own band [Fleshmeadow](https://fleshmeadow.bandcamp.com/).
+

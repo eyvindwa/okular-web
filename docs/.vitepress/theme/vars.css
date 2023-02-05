@@ -44,7 +44,7 @@
 }
 
 :root {
-    --vp-c-brand: darkred;
+    --vp-c-brand: rgb(220, 11, 11);
     --vp-c-brand-light: gray;
     --vp-c-brand-light: red;
     --vp-c-brand-lighter: pink;
