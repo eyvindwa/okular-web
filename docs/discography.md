@@ -4,7 +4,9 @@
 
 Regenerative productions, 2022
 
-<img src="/okular-regenerate.png" width="300" />
+<a href="/images/releases/regenerate-small.jpg" target="_blank">
+    <img src="/images/releases/regenerate-small.jpg" width="300" />
+</a>
 
 Lineup:
 * Andreas Aubert - Composition, lyrics
@@ -17,7 +19,9 @@ Lineup:
 
 Regenerative productions, 2013
 
-![Sexforce cover](/okular-sexforce.jpeg)
+<a href="/images/releases/sexforce.jpg" target="_blank">
+    <img src="/images/releases/sexforce.jpg" width="300" />
+</a>
 
 Lineup:
 * Andreas Aubert - Composition, lyrics, backing vocals
@@ -29,7 +33,9 @@ Lineup:
 
 Regenerative productions, 2011
 
-![Probiotic cover](/okular-probiotic.jpeg)
+<a href="/images/releases/probiotic.jpg" target="_blank">
+    <img src="/images/releases/probiotic.jpg" width="300" />
+</a>
 
 Lineup:
 * Andreas Aubert - Composition, lyrics, backing vocals

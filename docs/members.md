@@ -1,7 +1,12 @@
 # Members
 
+![Band](/images/band/band-small.jpg)
+
+*Okular as of 2023 - Marius, Bjørn-Tore, Andreas, Eyvind. (Fredrik was absent when picture was taken.)*
+
+
 ## Andreas Aubert 
-![Andreas](/andreas.jpg)
+![Andreas](/images/band/andreas-small.jpg)
 
 *Founder, composer and lyricist*
 
@@ -9,7 +14,7 @@ Andreas writes the music in the program Guitar Pro, at times without utilizing t
 
 ## Marius Skarsem Pedersen
 
-![Marius](/marius.jpg)
+![Marius](/images/band/marius-small.jpg)
 
 *Guitars, harsh and clean vocals*
 
@@ -25,7 +30,7 @@ Bjørn Tore also plays drums in [Aspherium](https://aspherium.com/), a band he i
 
 ## Eyvind W. Axelsen
 
-![Eyvind](/eyvind.jpg)
+![Eyvind](/images/band/eyvind-small.jpg)
 
 *Bass*
 
@@ -33,7 +38,7 @@ Eyvind is also bassist/co-vocalist/co-songwriter in the experimental death metal
 
 ## Fredrik William Aas
 
-![Fredrik](/fredrik.jpg)
+![Fredrik](/images/band/fredrik-small.jpg)
 
 *Harsh vocals*
 
