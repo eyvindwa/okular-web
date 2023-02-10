@@ -9,6 +9,7 @@ export default {
             { text: 'Discography', link: '/discography' },
             { text: 'Biography', link: '/biography' },
             { text: 'Members', link: '/members' },
+            { text: 'Reviews', link: '/reviews' },
         ],
         socialLinks: [
             { icon: 'facebook', link: 'https://www.facebook.com/okularmetal' },
