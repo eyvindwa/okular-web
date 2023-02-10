@@ -17,7 +17,7 @@ Marius also plays in the progressive and melodic death metal band [Aspherium](ht
 
 ## Bjørn Tore Erlandsen
 
-![Bjørn Tore](/bjorn-tore.jpg)
+![Bjørn Tore](/images/band/bjorn-tore.jpg)
 
 Drums 
 
