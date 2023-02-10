@@ -5,7 +5,7 @@ hero:
   name: Okular - Regenerate
   text: Progressive melodic death metal from Norway
   image:
-    src: /images/releases/regenerate-small.jpg
+    src: releases/regenerate-small.jpg
     alt: Adocs logo
   tagline: New release 'Regenerate' out now on Regenerative Productions! Check it out from your favorite streaming provider.
   actions:
