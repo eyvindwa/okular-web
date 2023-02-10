@@ -3,7 +3,7 @@
 ## Andreas Aubert 
 ![Andreas](/andreas.jpg)
 
-Founder, composer and lyricist
+*Founder, composer and lyricist*
 
 Andreas writes the music in the program Guitar Pro, at times without utilizing the physical guitar as a reference or point of departure.
 
@@ -11,7 +11,7 @@ Andreas writes the music in the program Guitar Pro, at times without utilizing t
 
 ![Marius](/marius.jpg)
 
-Guitars, extreme and melodic vocals
+*Guitars, harsh and clean vocals*
 
 Marius also plays in the progressive and melodic death metal band [Aspherium](https://aspherium.com/), for which he is the main composer, guitarist and vocalist.
 
@@ -19,7 +19,7 @@ Marius also plays in the progressive and melodic death metal band [Aspherium](ht
 
 ![Bjørn Tore](/images/band/bjorn-tore.jpg)
 
-Drums 
+*Drums*
 
 Bjørn Tore also plays drums in [Aspherium](https://aspherium.com/), a band he is leading together with Marius.
 
@@ -27,7 +27,7 @@ Bjørn Tore also plays drums in [Aspherium](https://aspherium.com/), a band he i
 
 ![Eyvind](/eyvind.jpg)
 
-Bass
+*Bass*
 
 Eyvind is also bassist/co-vocalist/co-songwriter in the experimental death metal band [Diskord](https://diskord.net). He has also been the bassist for [Defect Designer](https://defectdesignerband.bandcamp.com/).
 
@@ -35,7 +35,7 @@ Eyvind is also bassist/co-vocalist/co-songwriter in the experimental death metal
 
 ![Fredrik](/fredrik.jpg)
 
-Extreme vocals
+*Harsh vocals*
 
 Fredrik is guitarist/vocalist/songwriter of the blackened stoner metal band [Camelio](https://www.facebook.com/CamelioBand/).
 
