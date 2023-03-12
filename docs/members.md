@@ -64,6 +64,8 @@ Bass, live 2012-2014. Currently active with his own band [Fleshmeadow](https://f
 
 ## Session musicians
 
+For more extensive info on session musicians see [biography](biography.md#other-musicians-and-associations).'
+
 ### André Aaslie
 
 Piano and orchestration on Sexforce (three songs), piano on Regenerate (one song).
@@ -79,5 +81,3 @@ Acoustic guitars on Probiotic (two songs) and Sexforce (one song).
 ### Vintersorg
 
 Vocals, harsh and melodic, on Sexforce (one song).
-
-For more extensive info on session musicians see [biography](biography.md#other-musicians-and-associations).
