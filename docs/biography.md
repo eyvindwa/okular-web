@@ -1,13 +1,5 @@
 # Okular Biography
 
-## The lineup and the compositional method
-
-With members based in and around Oslo, Norway, contemporary death metal act Okular is led by composer and lyricist Andreas Aubert. He started playing guitar in 1996. Over the years he gained an intuitive understanding of the guitar as an instrument and played in a few bands, but lacked the technical skills to manifest the full range of his ideas. When introduced to the computer program Guitar Pro in 2004, he finally found a suitable channel for his musical creativity. 
-
-All of Okular’s music is written into Guitar Pro. Sometimes Andreas comes up with the main ideas on the guitar first, then writes it into the program. Other times he writes a full song directly into the program without first arriving at the riffs and melodies via the guitar. When composing, Andreas often reaches what in psychology is called a flow state where time and space disappears, one is absorbed into the activity and one can be creative without effort. He typically spends only two hours on writing the guitars for a song, being driven by intuition and passion moreso than technical analysis. The intellect is also involved in the process, but taking a back seat. Although composing music is meaningful in itself, Andreas felt a growing need for the music to be professionally recorded so that the songs could come to their full expression.
-
-In 2009 he gathered a lineup to record the debut album Probiotic. The core of Okular’s recording lineup has been comprised of Marius Skarsem Pedersen (guitars, extreme and melodic vocals) and Bjørn Tore Erlandsen (drums), who have been featured on all albums. Bassists and co-vocalists have varied, but for 2023’s Regenerate, the band has found a stable lineup with the addition of bassist Eyvind W. Axelsen and co-vocalist Fredrik William Aas (extreme vocals).
-
 ## The musical style
 
 The band draws inspiration equally from traditional death metal as well as more recent offerings, including elements not commonly utilized within the death metal genre.  Fans of Death, Gojira and At The Gates should be drawn to Okular’s balanced blend of intensity and melody with a progressive edge.
@@ -16,6 +8,15 @@ Okular’s “musical DNA” is influence by the bands Aubert listened to during
 * Death metal, especially Morbid Angel, Death and early Decapitated
 * The Gothenburg scene of melodic death metal, especially At The Gates and early In Flames
 * Gojira’s sense of playfulness and experimentation with rhythms, textures and ambience
+
+## The lineup and the compositional method
+
+With members based in and around Oslo, Norway, contemporary death metal act Okular is led by composer and lyricist Andreas Aubert. He started playing guitar in 1996. Over the years he gained an intuitive understanding of the guitar as an instrument and played in a few bands, but lacked the technical skills to manifest the full range of his ideas. When introduced to the computer program Guitar Pro in 2004, he finally found a suitable channel for his musical creativity. 
+
+All of Okular’s music is written into Guitar Pro. Sometimes Andreas comes up with the main ideas on the guitar first, then writes it into the program. Other times he writes a full song directly into the program without first arriving at the riffs and melodies via the guitar. When composing, Andreas often reaches what in psychology is called a flow state where time and space disappears, one is absorbed into the activity and one can be creative without effort. He typically spends only two hours on writing the guitars for a song, being driven by intuition and passion moreso than technical analysis. The intellect is also involved in the process, but taking a back seat. Although composing music is meaningful in itself, Andreas felt a growing need for the music to be professionally recorded so that the songs could come to their full expression.
+
+In 2009 he gathered a lineup to record the debut album Probiotic. The core of Okular’s recording lineup has been comprised of Marius Skarsem Pedersen (guitars, extreme and melodic vocals) and Bjørn Tore Erlandsen (drums), who have been featured on all albums. Bassists and co-vocalists have varied, but for 2023’s Regenerate, the band has found a stable lineup with the addition of bassist Eyvind W. Axelsen and co-vocalist Fredrik William Aas (extreme vocals).
+
 
 ## The reception
 
