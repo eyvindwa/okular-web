@@ -52,21 +52,6 @@ The song has several faces and an adventurous approach which I simply love. From
 Pål Mathisen (Susperia, Chrome Divison) featured as co-vocalist on 7 out of 13 tracks, recording the harshest vocals he had done for years, as well as providing various facets of the melodic and clean vocals for which he is most known.
 
 Sexforce also featured contributions by pianist and multi-instrumentalist Andrè Aaslie (Gromth, Funeral, Images at Twilight, Profane Burial, Vitam Aeternam, Woodwindz, Omnia Moritur, Abyssic), providing piano and orchestration on the tracks To Ride the Bells of Truth, Rest in Chaos and Ride the Waves of Emotion. The piano work was based on Aubert’s sketches, with great improvements made by Aaslie, while the orchestration was entirely Aaslie’s own. On 2023s Regenerate, he provides piano on the title track, and it is planned that he may contribute occasionally to the band also in the future.
- 
-## Further critical praise
-
-Further Critical Praise for Probiotic:
-* *“Full of exciting elements. The quality is such that it measures up to bands like Obscura and Gojira.”* Rita Trondsgård, Scream Magazine (a Norwegian printed publication)
-* *“This might be the future of heavy and relentless Progressive Metal. Okular is Death Metal’s Nevermore mixed with Mercenary.”* Anders Peter Jørgensen, Voices From The Darkside
-* *“Interesting album!”* Martin Wickler, German Metal Hammer
-* *“Probiotic ranks among 2011s most impressive offerings of technical/progressive death metal.”*  No Clean Singing
-* *“One of the most exciting and challenging extreme albums from Norway I have heard in a long time.”* Even Knutsen, Arctic Metal
-* *“An impressive debut. The production is powerful and clear, the playing excellent and the tunes are solid.”* Martin Kvam, Norway Rock Magazine
-* *“The technical aspect is never too technical or messy, the sound is perfect and the riffs are reminiscent of the terrain Death was operating in. But this is two-three times heavier than what Chuck Schuldiner created in his lifetime,”* writes Yngve Jacobsen, editor of heavymetal.no, giving the album 8/10. According to him, the album is characterized by:
-*“Very focused arrangements, which is not easy to accomplish in this genre. Okular’s metal maintains a good flow even at high tempos.”*
-*“Brutal yet controlled vocals. Never too guttural or too screamy”*
-
-<!--- Further critical praise for Sexforce: -->
 
 
 
