@@ -62,3 +62,23 @@ Guitars, live 2012–2014. Was previously active with Profania.
 ### Simen Folkestad 
 Bass, live 2012-2014. Currently active with his own band [Fleshmeadow](https://fleshmeadow.bandcamp.com/).
 
+
+## Session musicians
+
+## André Aaslie
+
+Piano and orchestration on Sexforce (three songs), piano on Regenerate (one song).
+
+## Pål Mathisen
+
+Vocals, harsh and melodic, on Sexforce (seven songs).
+
+## Vintersorg
+
+Vocals, harsh and melodic, on Sexforce (one song).
+
+For more extensive musicians on session musicians see [biography](/docs/biography.md#other-musicians-and-associations).
+
+## Manoon Ploypradab
+
+Acoustic guitars on Probiotic (two songs) and Sexforce (one song).
