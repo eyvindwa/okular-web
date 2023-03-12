@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: Listen to a teaser here
-      link: https://har.ikke.ennå
+      link: https://har.ikke
     - theme: alt
       text: Okular BandCamp
       link: https://okular.bandcamp.com/album/sexforce
