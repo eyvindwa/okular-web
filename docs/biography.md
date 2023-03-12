@@ -24,7 +24,7 @@ The 2011 debut album Probiotic became album of the month in Norway’s Scream Ma
 
 The 2013 sophomore effort Sexforce also received critical acclaim, with Lords of Metal stating *“for those who love interesting death metal it is an absolute recommendation”*, Arctic Metal stating *“Another impressing effort from one of the most exciting bands Norway has to offer. Sounds refreshingly different to more or less anything out there”* and The Monolith stating *“Would’ve been an immediate classic had the music industry been an environment basing success on sheer musical quality.”*
 
-Click [here](/docs/reviews.md) for a comprehensive list of reviews.
+Click [here](reviews.md) for a comprehensive list of reviews.
 
 ## Live playing
 

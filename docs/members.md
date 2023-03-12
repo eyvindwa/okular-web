@@ -77,7 +77,7 @@ Vocals, harsh and melodic, on Sexforce (seven songs).
 
 Vocals, harsh and melodic, on Sexforce (one song).
 
-For more extensive musicians on session musicians see [biography](/docs/biography.md#other-musicians-and-associations).
+For more extensive musicians on session musicians see [biography](biography.md).
 
 ## Manoon Ploypradab
 
