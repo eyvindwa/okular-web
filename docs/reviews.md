@@ -134,9 +134,6 @@ for sound and entertainment value)
 
 \- Psychozine (webzine), Poland (4/5, review in Polish)
 
-> Okular is Death Metal's Nevermore [...] this might be the
-future of heavy and relentless progressive metal
-
 \- Voices from the Darkside (webzine), german/international (no grading, but very
 positive. review in English)  [Link](https://www.voicesfromthedarkside.de/review/okular-probiotic/)
 
