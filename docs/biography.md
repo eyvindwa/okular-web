@@ -4,7 +4,7 @@
 
 The band draws inspiration equally from traditional death metal as well as more recent offerings, including elements not commonly utilized within the death metal genre.  Fans of Death, Gojira and At The Gates should be drawn to Okular’s balanced blend of intensity and melody with a progressive edge.
 
-Okular’s “musical DNA” is influenced by the bands Aubert listened to during his first years of composing with the Guitar Pro software. Having a prior background in thrash metal and groove metal as well as traditional metal, the following three strains to which he was later exposed are his most important sources of inspiration and influence:
+Okular’s “musical DNA” is influenced by the bands that Okular founder Andreas Aubert listened to during his first years of composing with the Guitar Pro software. Having a prior background in thrash metal and groove metal as well as traditional metal, the following three strains to which he was later exposed are his most important sources of inspiration and influence:
 * Death metal, especially Morbid Angel, Death and early Decapitated
 * The Gothenburg scene of melodic death metal, especially At The Gates and early In Flames
 * Gojira’s sense of playfulness and experimentation with rhythms, textures and ambience
