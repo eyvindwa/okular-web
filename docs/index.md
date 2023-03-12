@@ -6,7 +6,7 @@ hero:
   text: Progressive melodic death metal from Norway
   image:
     src: /releases/regenerate-small.jpg
-    alt: Adocs logo
+    alt: Regenerate album
   tagline: New release 'Regenerate' out now on Regenerative Productions! Check it out from your favorite streaming provider.
   actions:
     - theme: brand
