@@ -63,38 +63,36 @@ environment basing success on sheer musical quality.
 
 ## Probiotic
 
-> “Full of exciting elements. The quality is such that it measures up to bands like Obscura and Gojira.”
+> Full of exciting elements. The quality is such that it measures up to bands like Obscura and Gojira.
 
 \- Rita Trondsgård, Scream Magazine (a Norwegian printed publication)
 
-> “This might be the future of heavy and relentless Progressive Metal. Okular is Death Metal’s Nevermore mixed with Mercenary.”
+> This might be the future of heavy and relentless Progressive Metal. Okular is Death Metal’s Nevermore mixed with Mercenary.
 
 \- Anders Peter Jørgensen, Voices From The Darkside
 
-> “Interesting album!”
+> Interesting album!
 
 \- Martin Wickler, German Metal Hammer
 
-> “Probiotic ranks among 2011s most impressive offerings of technical/progressive death metal.”
+> Probiotic ranks among 2011s most impressive offerings of technical/progressive death metal.
 
 \- No Clean Singing
 
-> “One of the most exciting and challenging extreme albums from Norway I have heard in a long time.”
+> One of the most exciting and challenging extreme albums from Norway I have heard in a long time.
 
 \- Even Knutsen, Arctic Metal
 
-> “An impressive debut. The production is powerful and clear, the playing excellent and the tunes are solid.”
+> An impressive debut. The production is powerful and clear, the playing excellent and the tunes are solid.
 
 \- Martin Kvam, Norway Rock Magazine
 
-> “The technical aspect is never too technical or messy, the sound is perfect and the riffs are reminiscent of the terrain Death was operating in. But this is two-three times heavier than what Chuck Schuldiner created in his lifetime [...] “Very focused arrangements, which is not easy to accomplish in this genre. Okular’s metal maintains a good flow even at high tempos.”
-*“Brutal yet controlled vocals. Never too guttural or too screamy”*
+> The technical aspect is never too technical or messy, the sound is perfect and the riffs are reminiscent of the terrain Death was operating in. But this is two-three times heavier than what Chuck Schuldiner created in his lifetime [...] Very focused arrangements, which is not easy to accomplish in this genre. Okular’s metal maintains a good flow even at high tempos. [...]
+“Brutal yet controlled vocals. Never too guttural or too screamy
 
 \- Yngve Jacobsen, editor of heavymetal.no
 
-Norway
-
-\- Scream Magazine, printed Magazine, December 2011, “Album of the Month”
+\- Scream Magazine, printed Norwegian Magazine, December 2011, “Album of the Month”
 (Communal review with highest average score) and main review 5/6
 
 \- Metal Hammer Norway, printed magazine, 8/10
