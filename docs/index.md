@@ -7,19 +7,19 @@ hero:
   image:
     src: /releases/regenerate-small.jpg
     alt: Regenerate album
-  tagline: New release 'Regenerate' out now on Regenerative Productions! Check it out from your favorite streaming provider.
+  tagline: New release 'Regenerate' out will be released this spring on Regenerative Productions! Stay tuned for updates.
   actions:
     - theme: brand
       text: Listen to a teaser here
-      link: https://db.no
+      link: https://har.ikke.no
     - theme: alt
       text: Okular BandCamp
       link: https://okular.bandcamp.com/album/sexforce
 
 features:
   - title: Okular is back!
-    details: A triumphant return after 10 years!
-  - title: The most concise effort to date
+    details: A triumphant return for the band after 10 years of silence
+  - title: The band's most concise effort to date
     details: 9 tracks of progressive melodic death metal clocking in at 37 minutes
   - title: For fans of Death, Gojira and At the Gates
     details: Combining Scandinavian and "Schuldinerish" melodies with groove and occasional dissonance
