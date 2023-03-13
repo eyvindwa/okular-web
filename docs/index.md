@@ -7,7 +7,7 @@ hero:
   image:
     src: /releases/regenerate-small.jpg
     alt: Regenerate album
-  tagline: New release 'Regenerate' out will be released this spring on Regenerative Productions! Stay tuned for updates.
+  tagline: New album 'Regenerate' will be released this spring on Regenerative Productions! Stay tuned for updates.
   actions:
     - theme: brand
       text: Listen to a teaser here
