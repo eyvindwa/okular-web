@@ -1,5 +1,5 @@
 /* enforce dark mode look */
-/* :root {
+:root {
     --vp-c-bg: #1e1e20;
 
     --vp-c-bg-elv: #252529;
@@ -41,7 +41,7 @@
 
     --vp-button-sponsor-border: var(--vp-c-gray-dark-1);
     --vp-button-sponsor-text: var(--vp-c-text-dark-2);
-} */
+}
 
 :root {
     --vp-c-brand: rgb(220, 11, 11);
@@ -52,7 +52,7 @@
     --vp-c-brand-darker: black;
 }
 
-/* remove dark/light mode toggle
+remove dark/light mode toggle
 .appearance {
     display: none !important;
 }
@@ -63,4 +63,4 @@
 
 .VPNavBarAppearance {
     display: none !important;
-} */
+}
