@@ -58,6 +58,9 @@ Bass on the sophomore album Sexforce. He is currently bassist/clean vocalist of 
 
 Guitars, live 2012–2014. Was previously active with Profania.
 
+### Kai Åsvik
+
+Bass on Probiotic. Currently active with [Dead Void](https://deadvoid.bandcamp.com/)
 
 ### Simen Folkestad 
 Bass, live 2012-2014. Currently active with his own band [Fleshmeadow](https://fleshmeadow.bandcamp.com/).

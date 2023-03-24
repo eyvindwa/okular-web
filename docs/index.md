@@ -14,7 +14,7 @@ hero:
       link: https://har.ikke.no
     - theme: alt
       text: Okular BandCamp
-      link: https://okular.bandcamp.com/album/sexforce
+      link: https://okular.bandcamp.com
 
 features:
   - title: Okular is back!
