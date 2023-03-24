@@ -34,7 +34,7 @@ Bjørn Tore also plays drums in [Aspherium](https://aspherium.com/), a band he i
 
 *Bass*
 
-Eyvind is also bassist/co-vocalist/co-songwriter in the experimental death metal band [Diskord](https://diskord.net). He has also been the bassist for [Defect Designer](https://defectdesignerband.bandcamp.com/).
+Eyvind is also bassist and multi-instrumentalist/co-vocalist/co-songwriter in the experimental, dissonant, death metal band [Diskord](https://diskord.net), and he assumed bass duties for [Defect Designer](https://defectdesignerband.bandcamp.com/) on their *Neanderthal* release from 2022.
 
 ## Fredrik William Aas
 
@@ -67,7 +67,7 @@ Bass, live 2012-2014. Currently active with his own band [Fleshmeadow](https://f
 
 ## Session musicians
 
-For more extensive info on session musicians see [biography](biography.md#other-musicians-and-associations).'
+For more extensive info on session musicians see [biography](biography.md#other-musicians-and-associations).
 
 ### André Aaslie
 
