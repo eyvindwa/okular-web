@@ -34,11 +34,10 @@ With the addition of live members Jan Pinslund (guitars) and Simen Folkestad (ba
 
 In 2014, Okular mainman Andreas Aubert found it impossible to continue the project, due to feeling less passionate about metal music and having a need to prioritize other interests and activities. As the years passed by, he did however from time to time feel that Okular would eventually return. In 2021 the timing was right. Having explored other types of music and committed himself to various areas of study (especially in the fields of psychology, personal growth, health and nutrition) for several years, he was now able to reform Okular with a sense of renewed spark and passion. In January 2022, Marius Skarsem Pedersen (guitars, harsh and melodic vocals) and Bjørn Tore Erlandsen (drums), agreed to record more music with Okular. Eyvind W. Axelsen (bass) and Fredrik William Aas (harsh vocals, former live member) were soon confirmed as new members, completing the lineup. 
 
-## 2023 and 2024 – two new albums
+## 2024 – New album release + EP in progress 
 
-Okular’s third album Regenerate is set for a worldwide digital release on May 25th, 2023. With founder Andreas Aubert still being the main songwriter, the album sees a higher degree of collaboration than in the past, taking the songs to new heights. Most notably, guitarist Marius Skarsem Pedersen provided several adjustments and additional arrangements, while drummer Bjørn Tore Erlandsen had complete freedom regarding the drum arrangements.
-
-The band has as of February 2023 started recording guitars for the subsequent fourth full album, this time with guitarist Fredrik Schjerve (Enrapture, Bizarrekult) recording guitars for five of the tracks as a guest musician. This album is intended for a 2024 release.
+Okular’s third album Regenerate is set for a worldwide digital release on March 26th, 2023. With founder Andreas Aubert still being the main songwriter, the album sees a higher degree of collaboration than in the past, taking the songs to new heights. Most notably, guitarist Marius Skarsem Pedersen provided several adjustments and additional arrangements, while drummer Bjørn Tore Erlandsen had complete freedom regarding the drum arrangements.
+The band is, as of January 2023, midway in completing a 5-song EP with guest guitarist Fredrik Schjerve (Enrapture, Bizarrekult) recording guitars for all five tracks as a guest musician. This EP is intended for a late 2024 or early 2025 release.
 
 ## Other musicians and associations
 
