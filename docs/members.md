@@ -2,7 +2,7 @@
 
 ![Band](/images/band/band-small.jpg)
 
-*Okular as of 2023 - Marius, Bjørn Tore, Andreas, Eyvind. (Fredrik was absent when picture was taken.)*
+*Okular as of 2024 - Marius, Bjørn Tore, Andreas, Eyvind. (Fredrik was absent when picture was taken.)*
 
 
 ## Andreas Aubert 
@@ -48,7 +48,7 @@ Fredrik is guitarist/vocalist/songwriter of the blackened stoner metal band [Cam
 ## Former members
 
 ### Yngve Bolt Christiansen
-Co-vocalist on the debut album Probiotic. Lead singer of Norwegian death metal band [Blood Red Throne](https://www.bloodredthrone.com/) from 2012-present.
+Co-vocalist on the debut album Probiotic. Lead singer of Norwegian death metal band [Blood Red Throne](https://www.bloodredthrone.com/) from 2012-2023.
 
 ### Martin Skar Berger
 
