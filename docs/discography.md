@@ -2,7 +2,7 @@
 
 ## Regenerate
 
-Regenerative productions, 2023
+Regenerative productions, 2024
 
 <a href="/releases/regenerate-small.jpg" target="_blank">
     <img src="/releases/regenerate-small.jpg" width="500" />
