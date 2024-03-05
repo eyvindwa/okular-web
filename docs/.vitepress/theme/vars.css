@@ -45,14 +45,18 @@
 
 :root {
     --vp-c-brand: rgb(220, 11, 11);
-    --vp-c-brand-light: gray;
     --vp-c-brand-light: red;
     --vp-c-brand-lighter: pink;
     --vp-c-brand-dark: darkred;
     --vp-c-brand-darker: black;
+    --vp-c-brand-1: var(--vp-c-brand);
+    --vp-c-brand-2: var(--vp-c-brand-dark);
+    --vp-c-brand-3: var(--vp-c-brand);
+    --vp-c-brand-soft: red;
+    --vp-button-brand-bg: rgb(220, 11, 11);
 }
 
-remove dark/light mode toggle
+/* remove dark/light mode toggle */
 .appearance {
     display: none !important;
 }
