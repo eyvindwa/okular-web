@@ -29,12 +29,12 @@ features:
 <h1>Praise for debut album Probiotic (2011)</h1>
 
 <div style="float:left;padding:40px">
-<a href="/images/Statement-Page_English.jpg" target="_blank">
-<img src="/images/Statement-Page_English.jpg" width="300">
+<a href="/Statement-Page_English.jpg" target="_blank">
+<img src="/Statement-Page_English.jpg" width="300">
 </a>
 </div>
 <p>
-<a href="/images/Statement-Page_English.jpg" target="_blank">Statement from Øystein G. Brun</a> of Borknagar 
+<a href="/Statement-Page_English.jpg" target="_blank">Statement from Øystein G. Brun</a> of Borknagar 
 on the 2011 debut:
 
 "The overall approach of Okular’s music, lyrics and visual expressions is the genuine intention and boldness to do something the challenge the cemented expectations regarding death metal. (…) Andreas Aubert is an interesting and talented composer with an original and  
@@ -54,11 +54,11 @@ creative artistic vision."
 
 <div style="float:left;padding:40px">
 <a href="/Okular-Probiotic-Scream-2011.pdf" target="_blank">
-<img src="/images/maanedens-album-probiotic.jpg" width="300"/></a>
+<img src="/maanedens-album-probiotic.jpg" width="300"/></a>
 </div>
 
 <p>
-Album of the month in <a href="/images/maanedens-album-probiotic.jpg" target="_blank">Scream Magazine</a> December 2011, Norwegian print publication.
+Album of the month in <a href="/maanedens-album-probiotic.jpg" target="_blank">Scream Magazine</a> December 2011, Norwegian print publication.
 
 "Full of exciting elements. The quality is such that it measures up to bands like Obscura and Gojira."
 (Rita Trondsgård, Scream Magazine)
