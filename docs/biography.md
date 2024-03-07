@@ -36,7 +36,7 @@ In 2014, Okular mainman Andreas Aubert found it impossible to continue the proje
 
 ## 2024 – New album release + EP in progress 
 
-Okular’s third album Regenerate is set for a worldwide digital release on May 31st 2024. With founder Andreas Aubert still being the main songwriter, the album sees a higher degree of collaboration than in the past, taking the songs to new heights. Most notably, guitarist Marius Skarsem Pedersen provided several adjustments and additional arrangements, while drummer Bjørn Tore Erlandsen had complete freedom regarding the drum arrangements.
+Okular’s third album Regenerate is set for a worldwide digital release on June 7th of 2024. With founder Andreas Aubert still being the main songwriter, the album sees a higher degree of collaboration than in the past, taking the songs to new heights. Most notably, guitarist Marius Skarsem Pedersen provided several adjustments and additional arrangements, while drummer Bjørn Tore Erlandsen had complete freedom regarding the drum arrangements.
 
 The band is, as of March 2024, midway in completing a 5-song EP with guest guitarist Fredrik Schjerve (Enrapture, Bizarrekult) recording guitars for all five tracks as a guest musician. This EP is intended for an early or mid-2025 release.
 

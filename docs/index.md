@@ -7,7 +7,7 @@ hero:
   image:
     src: /releases/regenerate-small.jpg
     alt: Regenerate album
-  tagline: New album 'Regenerate' will be released May 31st 2024 on Regenerative Productions!
+  tagline: New album 'Regenerate' will be released June 7th 2024 on Regenerative Productions!
   actions:
     - theme: brand
       text: Listen to a teaser here
@@ -33,21 +33,18 @@ features:
 <img src="/Statement-Page_English.jpg" width="300" style="float:left;padding:40px">
 </a>
 
+<a href="/Statement-Page_English.jpg" target="_blank">Statement from Øystein G. Brun</a> of Borknagar on the 2011 debut:
 
-<a href="/Statement-Page_English.jpg" target="_blank">Statement from Øystein G. Brun</a> of Borknagar 
-on the 2011 debut:
-
-"The overall approach of Okular’s music, lyrics and visual expressions is the genuine intention and boldness to do something the challenge the cemented expectations regarding death metal. (…) Andreas Aubert is an interesting and talented composer with an original and  
-creative artistic vision."
+_"The overall approach of Okular’s music, lyrics and visual expressions is the genuine intention and boldness to do something the challenge the cemented expectations regarding death metal. (…) Andreas Aubert is an interesting and talented composer with an original and creative artistic vision."_
 
 
-"Interesting album!" (Martin Wickler, German Metal Hammer)
+_"Interesting album!"_ (Martin Wickler, German Metal Hammer)
 
-"Okular is death metal’s Nevermore mixed with Mercenary" <a href="https://www.voicesfromthedarkside.de/review/okular-probiotic/" target="_blank">(Anders Peter Jørgensen, Voices From the Darkside)</a>
+_"Okular is death metal’s Nevermore mixed with Mercenary"_ <a href="https://www.voicesfromthedarkside.de/review/okular-probiotic/" target="_blank">(Anders Peter Jørgensen, Voices From the Darkside)</a>
 
-"An impressive debut. The production is powerful and clear, the playing excellent and the tunes are solid" (Martin Kvam, Norway Rock Magazine)
+_"An impressive debut. The production is powerful and clear, the playing excellent and the tunes are solid"_ (Martin Kvam, Norway Rock Magazine)
 
-"One of the most promising bands from Norway in 2011" <a href="http://p3.no/pyro/pyro-karer-de-mest-lovende-bandene-i-norge-2011/" target="_blank">(Pyro, Norwegian Broadcasting Corporation)</a>. 
+_"One of the most promising bands from Norway in 2011"_ <a href="http://p3.no/pyro/pyro-karer-de-mest-lovende-bandene-i-norge-2011/" target="_blank">(Pyro, Norwegian Broadcasting Corporation)</a>. 
 
 <div style="clear:both"></div>
 
@@ -56,7 +53,7 @@ creative artistic vision."
 
 Album of the month in <a href="/maanedens-album-probiotic.jpg" target="_blank">Scream Magazine</a> December 2011, Norwegian print publication.
 
-"Full of exciting elements. The quality is such that it measures up to bands like Obscura and Gojira."
+_"Full of exciting elements. The quality is such that it measures up to bands like Obscura and Gojira."_
 (Rita Trondsgård, Scream Magazine)
 
 The album features Yngve "Bolt" Christiansen from Blood Red Throne (2012-2023) as co-vocalist.
