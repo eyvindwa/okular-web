@@ -8,7 +8,7 @@
 ## Andreas Aubert 
 ![Andreas](/images/band/andreas-small.jpg)
 
-*Founder, composer and lyricist*
+*Founder, composer, lyricist and backing vocalist*
 
 Andreas writes the music in the program Guitar Pro, at times without utilizing the physical guitar as a reference or point of departure.
 
