@@ -9,7 +9,7 @@ Regenerative productions, 2024
 </a>
 
 Lineup:
-* Andreas Aubert - Composition, lyrics
+* Andreas Aubert - Composition, lyrics, backing vocals
 * Bjørn Tore Erlandsen - Drums
 * Marius S. Pedersen - Vocals, guitars
 * Fredrik Aas - Vocals
