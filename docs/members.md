@@ -2,7 +2,7 @@
 
 ![Band](/images/band/band-small.jpg)
 
-*Okular as of 2024 - Marius, Bjørn Tore, Andreas, Eyvind. (Fredrik was absent when picture was taken.)*
+*Okular in 2022 - Marius, Bjørn Tore, Andreas, Eyvind. (Fredrik was absent when picture was taken.)*
 
 
 ## Andreas Aubert 
