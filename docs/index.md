@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: Listen to a teaser here
-      link: https://har.ikke.no
+      link: https://www.youtube.com/watch?v=G7jS9bYGkmM
     - theme: alt
       text: Okular BandCamp
       link: https://okular.bandcamp.com
