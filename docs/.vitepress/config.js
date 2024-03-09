@@ -1,6 +1,7 @@
 export default {
     title: 'Okular web',
     description: 'Norwegian progressive, melodic death metal.',
+    appearance: 'force-dark',
     themeConfig: {
         logo: '/okular-logo-removebg.png',
         siteTitle: false,
