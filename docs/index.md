@@ -35,7 +35,7 @@ features:
 
 <a href="/Statement-Page_English.jpg" target="_blank">Statement from Øystein G. Brun</a> of Borknagar on the 2011 debut:
 
-_"The overall approach of Okular’s music, lyrics and visual expressions is the genuine intention and boldness to do something the challenge the cemented expectations regarding death metal. (…) Andreas Aubert is an interesting and talented composer with an original and creative artistic vision."_
+_"The overall approach of Okular’s music, lyrics and visual expressions is the genuine intention and boldness to do something that challenge the cemented expectations regarding death metal. (…) Andreas Aubert is an interesting and talented composer with an original and creative artistic vision."_
 
 
 _"Interesting album!"_ (Martin Wickler, German Metal Hammer)

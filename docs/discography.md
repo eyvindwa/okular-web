@@ -9,9 +9,9 @@ Regenerative productions, 2024
 </a>
 
 Lineup:
-* Andreas Aubert - Composition, lyrics
+* Andreas Aubert - Composition, lyrics, backing vocals
 * Bjørn Tore Erlandsen - Drums
-* Marius S. Pedersen - Vocals, guitars
+* Marius S. Pedersen - Guitars, vocals
 * Fredrik Aas - Vocals
 * Eyvind W. Axelsen - Bass
 
@@ -26,7 +26,7 @@ Regenerative productions, 2013
 Lineup:
 * Andreas Aubert - Composition, lyrics, backing vocals
 * Bjørn Tore Erlandsen - Drums
-* Marius S. Pedersen - Vocals, guitars
+* Marius S. Pedersen - Guitars, vocals
 * Martin Berger - Bass
 
 ## Probiotic
@@ -40,6 +40,6 @@ Regenerative productions, 2011
 Lineup:
 * Andreas Aubert - Composition, lyrics, backing vocals
 * Bjørn Tore Erlandsen - Drums
-* Marius S. Pedersen - Vocals, guitars
+* Marius S. Pedersen - Guitars, vocals
 * Kai Åsvik - Bass
 * Yngve "Bolt" Christiansen - Vocals
