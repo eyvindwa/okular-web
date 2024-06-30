@@ -7,11 +7,11 @@ hero:
   image:
     src: /releases/regenerate-small.jpg
     alt: Regenerate album
-  tagline: New album 'Regenerate' will be released June 7th 2024 on Regenerative Productions!
+  tagline: New album 'Regenerate' was released June 7th 2024 on Regenerative Productions!
   actions:
     - theme: brand
-      text: Listen to a teaser here
-      link: https://www.youtube.com/watch?v=G7jS9bYGkmM
+      text: Listen to the full album here
+      link: https://youtu.be/O9nqKoKONFE
     - theme: alt
       text: Okular BandCamp
       link: https://okular.bandcamp.com
@@ -24,6 +24,16 @@ features:
   - title: For fans of Death, Gojira and At the Gates
     details: Combining Scandinavian and "Schuldinerish" melodies with groove and occasional dissonance
 ---
+
+<br><br>
+
+<h1>Praise for Regenerate (2024)</h1>
+
+_"A changing amalgam of straight-up barbaric death metal, prog-death metal, melodic death metal, and even – as you venture deeper into the album – elements from good old heavy metal and hard rock. It really is remarkable, from beginning to end!"_ (<a href="https://www.nocleansinging.com/2024/06/05/an-ncs-album-premiere-and-a-review-okular-regenerate/">No Clean Singing</a>) 
+
+_"It takes quite a while between each time I’m presented with technical death metal of such a solid calibre and with such great appeal and likability."_ (<a href="https://norwayrock.net/okular-regenerate/">Norway Rock Magazine</a>)
+
+See <a href="/reviews">Reviews page</a> for more.
 
 <br><br>
 <h1>Praise for debut album Probiotic (2011)</h1>

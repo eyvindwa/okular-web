@@ -1,6 +1,6 @@
 export default {
-    title: 'Okular web',
-    description: 'Norwegian progressive, melodic death metal.',
+    title: 'Okular - Progressive Melodic Death Metal from Norway',
+    description: 'Okular - Progressive Melodic Death Metal from Norway',
     appearance: 'force-dark',
     themeConfig: {
         logo: '/okular-logo-removebg.png',
@@ -17,7 +17,6 @@ export default {
             { icon: 'youtube', link: 'https://www.youtube.com/@OkularMetal' },
         ],
         footer: {
-            //message: "Released under the MIT License.",
             copyright: "Copyright © 2024 Okular.",
           },    
     }

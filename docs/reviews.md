@@ -2,8 +2,37 @@
 
 ## Regenerate
 
-TBA
+> "A changing amalgam of straight-up barbaric death metal, prog-death metal, melodic death metal, and even – as you venture deeper into the album – elements from good old heavy metal and hard rock. It really is remarkable, from beginning to end!" 
 
+\-No Clean Singing [Link](https://www.nocleansinging.com/2024/06/05/an-ncs-album-premiere-and-a-review-okular-regenerate/)
+
+
+> "A journey of discovery. Terms like melodic or progressive death metal doesn't do the band justice. Okular is unique in its sound and style. "
+
+\- Arrow Lords of Metal, Netherlands (9/10) [Link](https://arrowlordsofmetal.nl/okular-regenerate/) 
+
+
+> "A powerful, technically sound work with the right dose of melody. Not limited to incessant brutality, as Okular uses a variety of song structures, making the listening always surprising and hard-hitting. Okular have managed to refine its style and make it more impactful than ever." 
+
+\- No Dice Mage, France [Link](https://www.nodicemag.fr/okular-regenerate/) 
+
+> "A unique prog variant of contemporary Death Metal. " 
+
+\- Powermetal.de, Germany (8/10) [Link](https://powermetal.de/review/review-Okular/Regenerate,42303.html) 
+
+> "A band in excellent shape, able to balance aggression and harmony and to launch into progressive digressions without boring the listener. Appreciated for its technical caliber, professionalism and original approach to composition." 
+
+\- Metal Italia, Italy (7,5/10) [Link](https://metalitalia.com/album/okular-regenerate/) 
+
+> "It takes quite a while between each time I’m presented with technical death metal of such a solid calibre and with such great appeal and likability. " 
+
+\- Norway Rock Magazine, Norway (4.5/6) [Link](https://norwayrock.net/okular-regenerate/) 
+
+> "A solid album. The guitar work in particular was strong and kept the album moving forward. The sprinkling in of clean guitars and vocals brought diversity to the table. " 
+
+\- Metal-temple, international (7/10)[Link](https://metal-temple.com/review/okular-regenerate/) 
+
+ 
 ## Sexforce
 
 
